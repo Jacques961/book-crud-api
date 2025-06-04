@@ -72,21 +72,7 @@ Ensure `books.db` is in the same directory.
 
 ---
 
-## 🧪 GitHub Workflow
 
-```bash
-# Clone the repo
-git clone https://github.com/Jacques961/book-crud-api.git
-
-# Add your files
-git add .
-
-# Commit your changes
-git commit -m "Initial commit: Add Flask API, CLI, and database"
-
-# Push to GitHub
-git push origin main
-```
 
 ---
 
